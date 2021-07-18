@@ -1,0 +1,44 @@
+
+.logo {
+    display: inline-block;
+    float: left;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+   
+}
+
+
+ul {
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+
+    padding:12px 16px;
+
+    background-color: #27ae60;
+
+    color:white;
+
+    text-decoration:none; 
+}
+li a:hover{
+    background-color:#23834c; 
+}
+
+article {
+    padding-top: 100px;
+}
