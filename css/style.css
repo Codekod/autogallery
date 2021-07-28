@@ -43,9 +43,10 @@ article {
     padding-top: 100px;
 }
 
-div h3{
+div.ana h3{
 
     text-align: center;
+    color: goldenrod;
 }
 
 .ortala {
@@ -82,4 +83,13 @@ article h2 {
     font-family: fantasy;
     font-weight: bold;
     color: firebrick;
+}
+div.hak h3 {
+color: rebeccapurple;
+}
+div.hak p {
+    text-align: center;
+}
+.ana p {
+    text-align: center;
 }
